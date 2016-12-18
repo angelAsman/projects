@@ -1,0 +1,3 @@
+dburl=jdbc:mysql://127.0.0.1:4701/asmana_CS330
+user=asmana_writer
+password=CSYcBr4x
