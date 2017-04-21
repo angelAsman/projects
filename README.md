@@ -5,7 +5,7 @@ Some bioinformatics scripts and a google challenge
 # Java
 Stock trade analysis calculating decades of historical data
 # C
-GUI file tree built using GTK libraries
+GUI file tree built using GTK libraries<br />
 Command line with fref feature
  
 
